@@ -1,2 +1,2 @@
 # springboot-basic-crud-project
-springboot project
+springboot project Bi-Directional one-to-one mapping
